@@ -1,0 +1,12 @@
+numpy
+scipy
+nmslib
+parsimonious
+sklearn
+tabulate
+termcolor
+tqdm
+pytest
+pytest-xdist
+pytest-forked
+memory_profiler
